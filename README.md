@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Compilation of Online Tutorials on Vision, Graphics and Deep Learning.
 
-You can use the [editor on GitHub](https://github.com/Spandan-Madan/online_tutorials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page just hosts some good tutorials I found online while trying understand concepts in computer vision, deep learning and computer graphics. This serves as a compilation for me to refer back to, and as a public resource for people to find content.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Computer Graphics: or understanding digital visual media.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spandan-Madan/online_tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### How is 3D data stored and manipulated - https://www.alanzucconi.com/2016/07/01/signed-distance-functions/
+#### (Tags: ray marching, rendering, ray casting, shadows)
