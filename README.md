@@ -4,5 +4,5 @@ This page just hosts some good tutorials I found online while trying understand 
 
 ## Computer Graphics: or understanding digital visual media.
 
-#### How is 3D data stored and manipulated - https://www.alanzucconi.com/2016/07/01/signed-distance-functions/
-#### (Tags: ray marching, rendering, ray casting, shadows)
+- How 3D data stored and manipulated (Tags: ray marching, rendering, ray casting, shadows
+)- https://www.alanzucconi.com/2016/07/01/signed-distance-functions/
