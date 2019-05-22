@@ -6,3 +6,6 @@ This page just hosts some good tutorials I found online while trying understand 
 
 - How 3D data stored and manipulated (Tags: ray marching, rendering, ray casting, shadows
 )- https://www.alanzucconi.com/2016/07/01/signed-distance-functions/
+
+
+- Basic of image manipulation (Tags: bilateral filters, blur, demosaicking): https://people.csail.mit.edu/sparis/bf_course/course_notes.pdf
